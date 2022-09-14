@@ -36,12 +36,13 @@ class UserServiceTest {
         assertEquals("admin",username);
     }
 
+    /*
     @Test
     public void test_repo(){
         Stock stock = this.stockRepository.findById(1);
         assertEquals("鉛筆", stock.name);
     }
-
+     */
 
     @Test
     public void test_repo_e(){

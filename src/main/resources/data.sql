@@ -1,0 +1,10 @@
+INSERT INTO "mails" ("sender", "title") VALUES ('tutimikado@group.com', '傷付くのは俺１人で充分だ');
+INSERT INTO "mails" ("sender", "title") VALUES ('tutimikado@group.com', 'オレは勝つためなら何でもする');
+INSERT INTO "mails" ("sender", "title") VALUES ('accelerator@group.com', '悪ィが、こっから先は一方通行だ');
+INSERT INTO "mails" ("sender", "title") VALUES ('kakine@school.com', '『まだみつかっていない』だの『理論上は存在するはず』だのってチャチな話じゃない。本当に、存在しないんだよ');
+INSERT INTO "mails" ("sender", "title") VALUES ('kakine@school.com', '俺の『未元物質(ダークマター)』に、その常識は通用しねえ');
+INSERT INTO "mails" ("sender", "title") VALUES ('kakine@school.com', 'あんなのは努力やら希望やらをまだ信じてるガキ共の遊びだろーがっ!!');
+INSERT INTO "mails" ("sender", "title") VALUES ('mugino@item.com', '');
+INSERT INTO "mails" ("sender", "title") VALUES ('mugino@item.com', '');
+INSERT INTO "mails" ("sender", "title") VALUES ('kinuhata@item.com', '');
+INSERT INTO "mails" ("sender", "title") VALUES ('kinuhata@item.com', '');
